@@ -16,4 +16,8 @@ public interface Item {
     double getPrice();
 
     void setPrice(double price);
+
+    int getSequence();
+
+    void setGetSequence();
 }

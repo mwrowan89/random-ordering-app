@@ -5,12 +5,14 @@ public class Tea implements Item {
     private String itemDescription;
     private int itemQuantity;
     private double itemPrice;
+    private int sequence;
 
-    public Tea(String name, String description, int quantity, double price) {
+    public Tea(String name, String description, int quantity, double price, int sequence) {
         this.itemName = name;
         this.itemDescription = description;
         this.itemQuantity = quantity;
         this.itemPrice = price;
+        this.sequence = sequence;
     }
 
     @Override
@@ -31,6 +33,16 @@ public class Tea implements Item {
     @Override
     public String getDescription() {
         return itemDescription;
+    }
+
+    @Override
+    public int getSequence(){
+        return sequence;
+    }
+
+    @Override
+    public void setGetSequence() {
+
     }
 
     @Override

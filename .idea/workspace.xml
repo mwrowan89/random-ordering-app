@@ -6,13 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="da104769-c024-4501-83da-2dd72fcbf85d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/CoffeeShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/CoffeeShop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/processors/CustomerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/processors/CustomerOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Tea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Tea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/processors/CustomerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/processors/CustomerOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,5 +109,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
