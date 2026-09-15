@@ -19,7 +19,7 @@ public class Tea implements Item {
     }
 
     @Override
-    public double getQuantity() {
+    public int getQuantity() {
         return itemQuantity;
     }
 
@@ -28,14 +28,27 @@ public class Tea implements Item {
         return itemName;
     }
 
+    @Override
     public String getDescription() {
         return itemDescription;
     }
 
+    @Override
+    public void setName(String name) {
+        this.itemName = name;
+    }
+
+    @Override
+    public void setDescription(String description) {
+        this.itemDescription = description;
+    }
+
+    @Override
     public void setQuantity(int quantity) {
         this.itemQuantity = quantity;
     }
 
+    @Override
     public void setPrice(double price) {
         this.itemPrice = price;
     }

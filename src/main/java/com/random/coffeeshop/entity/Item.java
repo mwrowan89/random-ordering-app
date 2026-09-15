@@ -1,40 +1,19 @@
 package com.random.coffeeshop.entity;
 
-public class Item {
-    String name;
-    String description;
-    int quantity;
-    double price;
+public interface Item {
+    String getName();
 
-    public String getName() {
-        return name;
-    }
+    void setName(String name);
 
-    public void setName(String name) {
-        this.name = name;
-    }
+    String getDescription();
 
-    public String getDescription() {
-        return description;
-    }
+    void setDescription(String description);
 
-    public void setDescription(String description) {
-        this.description = description;
-    }
+    int getQuantity();
 
-    public int getQuantity() {
-        return quantity;
-    }
+    void setQuantity(int quantity);
 
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
-    }
+    double getPrice();
 
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
+    void setPrice(double price);
 }
