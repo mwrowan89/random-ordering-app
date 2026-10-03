@@ -39,8 +39,8 @@ public class CustomerOrder {
 
             System.out.println("Would you like to add another item?");
             System.out.println("Enter Y or N");
-            int input2 = scanner.nextInt();
-            if (input2 == 0) {
+            String input2 = scanner.next();
+            if (input2.equalsIgnoreCase("n")) {
                 ordering = false;
             }
         }

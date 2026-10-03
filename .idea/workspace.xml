@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da104769-c024-4501-83da-2dd72fcbf85d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/entity/Tea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/processors/CustomerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/random/coffeeshop/processors/CustomerOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Coffee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Tea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/entity/Tea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/processors/CustomerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/random/coffeeshop/processors/CustomerOrder.class" afterDir="false" />
-    </list>
+    <list default="true" id="da104769-c024-4501-83da-2dd72fcbf85d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
